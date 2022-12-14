@@ -1,5 +1,5 @@
 # DIO-POKEDEX
 
-![DIO-POKEDEX](https://user-images.githubusercontent.com/116196987/204152250-ef81c56e-b1d1-4abb-96f7-095d97229446.jpg)
+![pokedex2](https://user-images.githubusercontent.com/116196987/207726852-5f8ec189-6646-4606-80b6-f05bd31bf3c3.jpg)
 
 Pokédex desenvolvida com HTML, CSS e JavaScript.
